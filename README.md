@@ -10,7 +10,7 @@ I made this calculator in the Master's program at Kennesaw State University. Thi
 <li>C# utilizes Model-View-Controller pattern</li>
 </ul>
 
-<ul>How to run-
+<ul>How to run:
 <li>Clone the repository</li>
 <li>Open in Unity</li>
 <li>Play scene</li>
