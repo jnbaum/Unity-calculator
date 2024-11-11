@@ -1,15 +1,17 @@
 # Unity-calculator
 A calculator project using Unity and C#
 
-I made this calculator in the Master's program at Kennesaw State University. It was the first time I had used C# and Unity. The project was challenging but very enjoyable as a learning opportunity, and I learned a lot of new information.
+I made this calculator in the Master's program at Kennesaw State University. This project was the first time I worked with C# and Unity. The project was challenging but very enjoyable, and I learned a lot about C# scripting.
 
-Features: 
-*Arithmetic operations
-*User interface
-*Decimal point function
-*C# utilizes Model-View-Controller pattern
+<ul>Features: 
+<li>*Arithmetic operations</li>
+<li>*User interface</li>
+<li>*Decimal point function</li>
+<li>*C# utilizes Model-View-Controller pattern</li>
+</ul>
 
-How to run-
-*Clone the repository
-*Open in Unity
-*Play scene
+<ul>How to run-
+<li>*Clone the repository</li>
+<li>*Open in Unity</li>
+<li>*Play scene</li>
+</ul>
